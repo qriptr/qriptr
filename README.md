@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qriptr
 - 👀 I’m interested in low-level development
-- 🌱 I’m currently learning computer architecture
+- 🌱 I’m currently learning computer architecture (x86 specifically)
 
 <!---
 qriptr/qriptr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
